@@ -4,6 +4,8 @@ A series of educational notebook tutorials for implementing Dynamic Matrix Contr
 
 ## Usage
 
-`pip install -r requirements.txt`
+`!git clone https://github.com/csianglim/DMC-Python.git`
+
+`!pip install -r 'DMC-Python/requirements.txt'`
 
 Note to developers: `requirements.txt` is generated automatically using `ipyreqsnb`.

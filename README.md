@@ -2,6 +2,8 @@
 
 A series of educational notebook tutorials for implementing Dynamic Matrix Control (DMC) from scratch in Python.
 
+![main.png](main.png)
+
 ## Usage
 
 `!git clone https://github.com/csianglim/DMC-Python.git`

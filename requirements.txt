@@ -1,6 +1,6 @@
 ipywidgets==7.7.0
 matplotlib==3.5.2
-numpy==1.22.4
+numpy==1.21.6
 pandas==1.4.2
 pulp==2.6.0
 ipympl==0.9.1
